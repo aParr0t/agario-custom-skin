@@ -1,5 +1,7 @@
 # agario-custom-skin
 A console script that lets you use any 512x512 image as a skin.
+Note: this only works on desktop, since (as far as I know) you need to use the
+webbrowser's developer tools in process.
 
 ## Instructions:
 1. Download any 512x512 png image
