@@ -3,6 +3,11 @@ A console script that lets you use any 512x512 image as a skin.
 Note: this only works on desktop, since (as far as I know) you need to use the
 webbrowser's developer tools in process.
 
+## Disclaimer:
+As of \<some-date-not-long-ago>, I'm struggling to get this "hack" to work. You can of course give it a shot, maybe I messed
+up following my own instructions. If it works for you, please tell me, otherwise I'm sorry. Previously it worked like a charm
+and I'm happy if someone profited because of it. 
+
 ## Instructions:
 1. Download any 512x512 png image
 2. Convert the image to base64 with a website like [Base64-Image](https://www.base64-image.de/)
